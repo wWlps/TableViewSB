@@ -160,6 +160,7 @@
 				TargetAttributes = {
 					5E09497320B43D16000560EB = {
 						CreatedOnToolsVersion = 9.3.1;
+						LastSwiftMigration = 1000;
 						SystemCapabilities = {
 							com.apple.Maps.iOS = {
 								enabled = 1;
@@ -369,7 +370,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = test.TableViewSB;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -386,7 +387,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = test.TableViewSB;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
